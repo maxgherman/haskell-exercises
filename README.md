@@ -1,2 +1,3 @@
 # haskell-exercises
+
 Haskell exercises
